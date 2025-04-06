@@ -1,0 +1,41 @@
+# Basic information
+name: Amareshwar Reddy
+role: Data Analyst
+location: Hyderabad, India
+experience: 3 years
+
+# Skills
+skills:
+  - Python
+  - SQL
+  - Data Visualization
+  - Pandas
+  - Excel
+
+# Certifications
+certifications:
+  - title: Python Bootcamp
+    provider: Coursera
+    year: 2024
+  - title: SQL Gold Badge
+    provider: HackerRank
+    year: 2024
+
+# Projects
+projects:
+  - name: H1B Visa Analysis
+    tools: [Python, Pandas, Matplotlib]
+    description: Analyzed H1B visa approval trends over the years.
+  - name: IPL Cricket Analysis
+    tools: [Python, Seaborn, NumPy]
+    description: Visualized team performance and player stats using IPL data.
+
+# Education
+education:
+  degree: BTech in Computer Science
+  university: JNTU Hyderabad
+  year: 2023
+
+# Availability
+available_for_hire: true
+
